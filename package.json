@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/mo36924/babel-plugin-replace-import-prefix.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [],
   "author": "",
   "license": "MIT",
